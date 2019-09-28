@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.852
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GiveAwApp", "GiveAwApp\GiveAwApp.csproj", "{29136A47-7B2D-41D1-91C7-6D5C8E6D3670}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29136A47-7B2D-41D1-91C7-6D5C8E6D3670}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29136A47-7B2D-41D1-91C7-6D5C8E6D3670}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29136A47-7B2D-41D1-91C7-6D5C8E6D3670}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29136A47-7B2D-41D1-91C7-6D5C8E6D3670}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F27DFF83-53EA-45CC-AF92-17930D9F2D68}
+	EndGlobalSection
+EndGlobal
